@@ -43,6 +43,6 @@ python self_pruning_cifar10.py --epochs 20 --batch-size 128 --lambdas 1e-6,1e-5,
 
 | Lambda | Test Accuracy (%) | Sparsity Level (%) |
 |---:|---:|---:|
-| 1e-6 | ... | ... |
-| 1e-5 | ... | ... |
-| 1e-4 | ... | ... |
+1e-04 | 58.70 | 88.97 
+| 5e-04 | 55.67 | 98.51
+| 1e-03 | 52.33 | 99.56 
