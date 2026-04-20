@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+
+data/
+outputs/*
+!outputs/results_summary.csv
+!outputs/results_table.md
+!outputs/best_gate_distribution.png
+.venv
+submission/
+extract_pdf.py
+pdf_extract_output.txt
+py_test.txt
+torch_check.txt

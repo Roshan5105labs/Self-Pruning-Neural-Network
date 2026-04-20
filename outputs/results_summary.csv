@@ -1,0 +1,4 @@
+lambda_value,best_epoch,test_accuracy,test_loss,sparsity_percent,checkpoint_path,run_dir
+0.0001,30,58.699999999999996,1.1780428382873536,88.96514177322388,outputs\lambda_1e-04\best_model.pt,outputs\lambda_1e-04
+0.0005,30,55.669999999999995,1.2591021268844604,98.51461052894592,outputs\lambda_5e-04\best_model.pt,outputs\lambda_5e-04
+0.001,18,52.33,1.341933727645874,99.5643138885498,outputs\lambda_1e-03\best_model.pt,outputs\lambda_1e-03
